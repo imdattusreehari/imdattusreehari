@@ -54,17 +54,6 @@ I'm a founder and builder based in **Ongole, Andhra Pradesh, India**. I create t
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=imdattusreehari&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdattusreehari&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 ## Exploring (forks & learning)
 
 Repos I'm studying and experimenting with around **AI engineering** and **agent tooling**:
