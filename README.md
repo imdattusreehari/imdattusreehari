@@ -26,8 +26,8 @@ I'm a founder and builder based in **Ongole, Andhra Pradesh, India**. I create t
 
 | Project | What it is | Link |
 | -------- | ---------- | ---- |
-| **Mega Prompts Library** | Curated, copy-ready Mega Prompts for AI builders — filter by industry, one-click copy | [Live demo](https://megapromptslibrary.vercel.app/) · [Repo](https://github.com/imdattusreehari/megapromptslibrary) |
-| **Deals CRM by DSHM** | Kanban-style deals CRM | [Live demo](https://dealscrmbydshm.vercel.app/) · [Repo](https://github.com/imdattusreehari/dealscrmbydshm) |
+| **Mega Prompts Library** | Curated, copy-ready Mega Prompts for AI builders — filter by industry, one-click copy | [Live demo](https://megapromptslibrary.vercel.app/)
+| **AI Fundamentals** | Learn 62 essential AI concepts with relatable analogies | [Live demo](https://ai.masternextacademy.com/)
 | **Batman Tribute** | Fan tribute UI experiment | [Repo](https://github.com/imdattusreehari/batmantribute) |
 
 ---
